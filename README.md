@@ -80,7 +80,7 @@ Operations |	Metrics |	Prometheus, Logstash, Splunk, Fluentd, AppDynamics Pro, G
 Operations |	Monitoring |	Splunk, Logback, Log4j2, SLF4J, AppDynamics Pro, JBoss EAP Logging, HP SiteScope, Fluentd, QRadar, Amazon X-Ray
 Operations |	Scheduling |	Quartz Scheduler
 Testing |	Accessibility/508 |	Pa11y, ANDI, Wave Plug-In for Chrome by Webaim
-Testing |	Inttegration |	Selenium, Protractor, Cucumber
+Testing |	Integration |	Selenium, Protractor, Cucumber
 Testing |	Penetration |	OWASP Zed Attack Proxy (ZAP), Fortify, WebInspect
 Testing |	Performance |	JMeter, Gatling, LoadRunner
 Testing |	Static Code Analysis |	SonarQube
